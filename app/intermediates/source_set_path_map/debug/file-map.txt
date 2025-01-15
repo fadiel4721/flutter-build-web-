@@ -1,0 +1,61 @@
+com.example.pm1_task_management.app-jetified-startup-runtime-1.1.1-0 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\01a9b8f278d5104e2b407da17091143b\transformed\jetified-startup-runtime-1.1.1\res
+com.example.pm1_task_management.app-jetified-tracing-1.2.0-1 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\11ed38efdeb18397526c0302dcbd416f\transformed\jetified-tracing-1.2.0\res
+com.example.pm1_task_management.app-preference-1.2.1-2 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\12a231d65fca844201b3487a7d3cc076\transformed\preference-1.2.1\res
+com.example.pm1_task_management.app-jetified-play-services-basement-18.4.0-3 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\1726be560aeef828f518f3da5e915faa\transformed\jetified-play-services-basement-18.4.0\res
+com.example.pm1_task_management.app-slidingpanelayout-1.2.0-4 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\1a637a1a0ac3ef7848210bcbc2b988fe\transformed\slidingpanelayout-1.2.0\res
+com.example.pm1_task_management.app-jetified-lifecycle-livedata-core-ktx-2.7.0-5 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\227db0a38703352a3a3c326b207654df\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.pm1_task_management.app-jetified-activity-1.9.3-6 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\23cde481ab60774fc4d303c62b8c709e\transformed\jetified-activity-1.9.3\res
+com.example.pm1_task_management.app-jetified-appcompat-resources-1.1.0-7 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\26b992fbe620226caf9c0ca1163a6c19\transformed\jetified-appcompat-resources-1.1.0\res
+com.example.pm1_task_management.app-core-1.13.1-8 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\395bf140ce90ed8e73d8bf648acbfa32\transformed\core-1.13.1\res
+com.example.pm1_task_management.app-lifecycle-viewmodel-2.7.0-9 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\3fdc249f21bb26a9e0d55d7e4a5d80d1\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.pm1_task_management.app-jetified-firebase-common-21.0.0-10 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\4071fb4cd820541ca76f606584bcfaad\transformed\jetified-firebase-common-21.0.0\res
+com.example.pm1_task_management.app-lifecycle-livedata-core-2.7.0-11 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\45837a06a42f25fce546680a6b777a98\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.pm1_task_management.app-transition-1.4.1-12 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\497d36149f3dd14bd84aef5031d920b6\transformed\transition-1.4.1\res
+com.example.pm1_task_management.app-jetified-play-services-auth-21.0.0-13 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\49a10694d1e24a044f57c9e0ae07dc2f\transformed\jetified-play-services-auth-21.0.0\res
+com.example.pm1_task_management.app-jetified-lifecycle-process-2.7.0-14 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\55244bda216da339b303516564ef510f\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.pm1_task_management.app-jetified-play-services-base-18.1.0-15 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\5535464cc0cceefe97e76879f3dc4ee7\transformed\jetified-play-services-base-18.1.0\res
+com.example.pm1_task_management.app-jetified-credentials-1.2.0-rc01-16 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\5cecb5d2095fad7cddde876f4880aa36\transformed\jetified-credentials-1.2.0-rc01\res
+com.example.pm1_task_management.app-browser-1.4.0-17 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\5e3b9ea5833da817c6323aa19757c3ba\transformed\browser-1.4.0\res
+com.example.pm1_task_management.app-jetified-window-java-1.2.0-18 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\5eead9789c179a49c548e373c61df773\transformed\jetified-window-java-1.2.0\res
+com.example.pm1_task_management.app-jetified-lifecycle-runtime-ktx-2.7.0-19 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\6d11e59875d81b7371df8b57c13eccb8\transformed\jetified-lifecycle-runtime-ktx-2.7.0\res
+com.example.pm1_task_management.app-jetified-lifecycle-viewmodel-ktx-2.7.0-20 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\6d5768b8140c74326227b44a6c7b6d13\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\res
+com.example.pm1_task_management.app-jetified-core-ktx-1.13.1-21 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\78e7d647cffd8dfdb384314fd0eb8af2\transformed\jetified-core-ktx-1.13.1\res
+com.example.pm1_task_management.app-jetified-fragment-ktx-1.7.1-22 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\7aa39c7cd8ddff827532ab4bf01fba29\transformed\jetified-fragment-ktx-1.7.1\res
+com.example.pm1_task_management.app-jetified-savedstate-1.2.1-23 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\877d21f98dd40ad965de4fde11acf6bc\transformed\jetified-savedstate-1.2.1\res
+com.example.pm1_task_management.app-jetified-datastore-preferences-release-24 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\91627ebdbb56fa8216a556dc5f8b5d15\transformed\jetified-datastore-preferences-release\res
+com.example.pm1_task_management.app-fragment-1.7.1-25 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\97c2b709b45ccc157d8a5f10de2a40e2\transformed\fragment-1.7.1\res
+com.example.pm1_task_management.app-lifecycle-runtime-2.7.0-26 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\98dc3c48e605bfc0a558194b2bef6331\transformed\lifecycle-runtime-2.7.0\res
+com.example.pm1_task_management.app-jetified-profileinstaller-1.3.1-27 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\9cedaa24f9c756b7948edd79fa91693d\transformed\jetified-profileinstaller-1.3.1\res
+com.example.pm1_task_management.app-jetified-credentials-play-services-auth-1.2.0-rc01-28 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\9f97386584e406c968b7f540d71063e2\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\res
+com.example.pm1_task_management.app-jetified-datastore-release-29 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\a20b6a67fcc2cb92359a6c7006f0fc42\transformed\jetified-datastore-release\res
+com.example.pm1_task_management.app-coordinatorlayout-1.0.0-30 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\a77e5761d92ee509e01a7baa14e09b56\transformed\coordinatorlayout-1.0.0\res
+com.example.pm1_task_management.app-jetified-window-1.2.0-31 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\b433d44ac8907ba2932fd0a4fff2f210\transformed\jetified-window-1.2.0\res
+com.example.pm1_task_management.app-jetified-savedstate-ktx-1.2.1-32 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\c4efc686ef147a7ab10c0935272aca95\transformed\jetified-savedstate-ktx-1.2.1\res
+com.example.pm1_task_management.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-33 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\d9237a218dd9179e49305b3c4712df4d\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.pm1_task_management.app-jetified-core-1.0.0-34 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\d94bd8e035104f24e2ad5729322a13bc\transformed\jetified-core-1.0.0\res
+com.example.pm1_task_management.app-appcompat-1.1.0-35 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\f206910fac80710d279fe4751e2d7e83\transformed\appcompat-1.1.0\res
+com.example.pm1_task_management.app-jetified-core-common-2.0.3-36 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\f230753ef82e6b40a9a216c2317e7d29\transformed\jetified-core-common-2.0.3\res
+com.example.pm1_task_management.app-jetified-datastore-core-release-37 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\f3e1167f54668b7f2f3aa078fbe22307\transformed\jetified-datastore-core-release\res
+com.example.pm1_task_management.app-core-runtime-2.2.0-38 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\f4cf15be3c21c3868cb4a85a0755bd22\transformed\core-runtime-2.2.0\res
+com.example.pm1_task_management.app-jetified-annotation-experimental-1.4.0-39 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\f6b56925412492e964ac4bcda650faf0\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.pm1_task_management.app-jetified-activity-ktx-1.9.3-40 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\f97cc82840023dca3ce29192c2491b12\transformed\jetified-activity-ktx-1.9.3\res
+com.example.pm1_task_management.app-recyclerview-1.0.0-41 C:\Users\Afi Prasetyo\.gradle\caches\transforms-3\ff76257db62d2acaeac0b0d47c9177e5\transformed\recyclerview-1.0.0\res
+com.example.pm1_task_management.app-debug-42 C:\laragon\www\game\android\app\src\debug\res
+com.example.pm1_task_management.app-main-43 C:\laragon\www\game\android\app\src\main\res
+com.example.pm1_task_management.app-google-services-44 C:\laragon\www\game\build\app\generated\res\google-services\debug
+com.example.pm1_task_management.app-pngs-45 C:\laragon\www\game\build\app\generated\res\pngs\debug
+com.example.pm1_task_management.app-resValues-46 C:\laragon\www\game\build\app\generated\res\resValues\debug
+com.example.pm1_task_management.app-packageDebugResources-47 C:\laragon\www\game\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.pm1_task_management.app-packageDebugResources-48 C:\laragon\www\game\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.pm1_task_management.app-merged_res-49 C:\laragon\www\game\build\app\intermediates\merged_res\debug
+com.example.pm1_task_management.app-packaged_res-50 C:\laragon\www\game\build\audioplayers_android\intermediates\packaged_res\debug
+com.example.pm1_task_management.app-packaged_res-51 C:\laragon\www\game\build\cloud_firestore\intermediates\packaged_res\debug
+com.example.pm1_task_management.app-packaged_res-52 C:\laragon\www\game\build\firebase_auth\intermediates\packaged_res\debug
+com.example.pm1_task_management.app-packaged_res-53 C:\laragon\www\game\build\firebase_core\intermediates\packaged_res\debug
+com.example.pm1_task_management.app-packaged_res-54 C:\laragon\www\game\build\firebase_storage\intermediates\packaged_res\debug
+com.example.pm1_task_management.app-packaged_res-55 C:\laragon\www\game\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.example.pm1_task_management.app-packaged_res-56 C:\laragon\www\game\build\google_sign_in_android\intermediates\packaged_res\debug
+com.example.pm1_task_management.app-packaged_res-57 C:\laragon\www\game\build\image_picker_android\intermediates\packaged_res\debug
+com.example.pm1_task_management.app-packaged_res-58 C:\laragon\www\game\build\path_provider_android\intermediates\packaged_res\debug
+com.example.pm1_task_management.app-packaged_res-59 C:\laragon\www\game\build\permission_handler_android\intermediates\packaged_res\debug
+com.example.pm1_task_management.app-packaged_res-60 C:\laragon\www\game\build\shared_preferences_android\intermediates\packaged_res\debug
